@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Attendance</string>
+
+    <string name="hello_world">If you\'re reading this, stop hacking our system!</string>
+    <string name="action_settings">Settings</string>
+    <string name="add">Add a Class</string>
+    <string name="drop">Drop a Class</string>
+    <string name="attend">Attend Class</string>
+    <string name="check">Check Attendance</string>
+    <string name="title_activity_dummy">Attendance</string>
+    <string name="title_activity_drop_dummy">Drop a Class</string>
+    <string name="title_activity_attend">Attend Class</string>
+    <string name="title_activity_attend_dummy2">Attend Class</string>
+    <string name="title_activity_check_dummy">Check Attendance</string>
+</resources>
